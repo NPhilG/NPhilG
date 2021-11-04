@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NPhilG
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning android studio
+- 📫 You can reach me at neilphil7@gmail.com or 757-708-4742
